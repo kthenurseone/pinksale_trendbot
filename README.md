@@ -23,15 +23,14 @@ If you are interested message me on Telegram [@kthenurseone](https://t.me/kthenu
 
 ## Features
 - Search for your token ✓
-- Click Telegram button ✓
-- Click Twitter button ✓
-- Click website button ✓
-- Click instagram buttons ✓
-- Click facebook button ✓
-- Click discord button ✓
-- Click share button ✓
-- Click bsc scan button ✓
-- Click token lock button ✓
+- Click Telegram link ✓
+- Click Twitter link ✓
+- Click website link ✓
+- Click instagram link ✓
+- Click facebook link ✓
+- Click discord link ✓
+- Click bsc scan link ✓
+- Click token lock link ✓
 - Scrolling on page ✓
 
 
