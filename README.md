@@ -17,7 +17,7 @@
 </p>
 
 ## About
-Dextool Trend bot makes your token trending on dextools.
+Pinksale trend bot makes your token trending on pinksale.
 
 If you are interested message me on Telegram [@kthenurseone](https://t.me/kthenurseone). 
 
